@@ -1,6 +1,5 @@
 import {View, Text, StyleSheet, Button, TouchableOpacity, TextInput, Image,  } from "react-native";
 
-
 const Separator = () => <View style={styles.separator} />;
 
 export default function LoginScreen({navigation}){
@@ -64,7 +63,7 @@ const styles = StyleSheet.create({
     },
     addButton: { 
       backgroundColor: "#941a1d", 
-      padding: 11, 
+      padding: 10, 
       borderRadius: 5, 
       marginBottom:10,
       width: '45%' 

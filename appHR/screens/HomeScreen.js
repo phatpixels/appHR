@@ -9,7 +9,6 @@ return(
 <View style={styles.container}>
 
 
-
   <Image 
           
           style={styles.header}
@@ -59,7 +58,7 @@ const styles = StyleSheet.create({
     },
     addButton: { 
       backgroundColor: "#941a1d", 
-      padding: 11, 
+      padding: 10, 
       borderRadius: 5, 
       marginBottom: 10, 
       width: '45%' 

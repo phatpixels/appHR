@@ -10,7 +10,6 @@ import Icon from 'react-native-vector-icons/Ionicons'
 
 const Stack = createNativeStackNavigator()
 
-
 export default function App(){
 
 return(
@@ -50,8 +49,6 @@ return(
 
 </Stack.Navigator>
 </NavigationContainer>
-
-
 
 )
 
